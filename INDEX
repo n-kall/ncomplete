@@ -1,0 +1,9 @@
+Banknotes               Swiss banknotes data set
+ncomplete.for           Minimal number of misclassifications based on
+                        an affine hyperplane in binary regression
+                        (complete separation)
+ncomplete1.for          Function called by ncomplete.for
+Z1                      Data set to illustrate the use of
+                        ncomplete.for
+Z2                      Data set to illustrate the use of
+                        ncomplete.for

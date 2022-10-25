@@ -1,0 +1,15 @@
+6ba432279a82cadce3c7f38de62a0ec5 *COPYRIGHT
+10dd78b3c61994175cbc159e9574400f *DESCRIPTION
+1f6647f232df18e38c10b6f6e4bd71cf *INDEX
+6e209f8ac87e777e750bb5a2d394afbf *R/ncomplete.R
+469432354ec2b23ca9a179f5bc502eb1 *R/zzz.R
+798b4b6317cf4b159ff9e93f6a9fec5b *data/Banknotes.r
+4024b6a3cb4c1fb4296d0b3195c457a7 *data/Z1.r
+0a396a081c6ae15c0ee27a77e9e4da74 *data/Z2.R
+e97f19dd8ef1f15d173ed87e6dc8e7ee *man/Banknotes.Rd
+068a0b27f65fea8e6f5d15bc878fbb6f *man/Z1.Rd
+38762b3d0c46c1538c91e78641ac311b *man/Z2.Rd
+c38dc585d9e2377b105d240ac1a6fe9c *man/ncomplete.Rd
+788cf53e538a328c2e8d0f1216aa5805 *man/ncomplete1.Rd
+e0986c902acb0995281ff98ca738f971 *src/ncomplS.f
+a00e21286ea04335066879190e97c425 *src/ncomplete_res.rc
